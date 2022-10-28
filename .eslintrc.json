@@ -1,6 +1,7 @@
 {
     "extends": "@rocketseat/eslint-config/react",
     "rules": {
+        "no-unused-vars": "off",
         "linebreak-style": 0
     }
 }
